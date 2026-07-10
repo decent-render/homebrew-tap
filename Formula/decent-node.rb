@@ -1,9 +1,9 @@
 class DecentNode < Formula
   desc "Decent render network node supervisor CLI"
   homepage "https://github.com/decent-render/decent-render"
-  url "https://github.com/decent-render/decent-render/releases/download/v0.0.3/decent-node-aarch64-apple-darwin.tar.xz"
-  sha256 "b2bf700ef63dd460d4bdd9d05a539956b2b651ffae65f95f3bb1577ac7f3e86a"
-  version "0.0.3"
+  url "https://github.com/decent-render/decent-render/releases/download/v0.0.4/decent-node-aarch64-apple-darwin.tar.xz"
+  version "0.0.4"
+  sha256 "f59d207b7d48273f734d09b77e9a4b4d95b1d432d8d8d80e5ed32d178f62ee87"
   license "Apache-2.0"
 
   # Apple-Silicon only: the render payloads are arm64-compiled, so an Intel Mac
