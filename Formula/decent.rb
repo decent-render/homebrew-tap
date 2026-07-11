@@ -1,8 +1,8 @@
 class Decent < Formula
   desc "Decent render network node supervisor CLI"
   homepage "https://github.com/decent-render/decent-render"
-  url "https://github.com/decent-render/decent-render/releases/download/v0.0.6/decent-aarch64-apple-darwin.tar.xz"
-  sha256 "59183ef7e77811424a685a1c2b7f719a9a361bb5e4849ebbc10ba8b4e2ca6c38"
+  url "https://github.com/decent-render/decent-render/releases/download/v0.0.7/decent-aarch64-apple-darwin.tar.xz"
+  sha256 "236614da95bf207ffc81b18b902402dd52af29da2c8bbcfe4c8d4ec00de85f18"
   license "Apache-2.0"
 
   depends_on arch: :arm64
